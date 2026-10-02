@@ -1,0 +1,26 @@
+[
+  {
+    "name": "A V V NAGA DURGESH",
+    "age": "19",
+    "dob": "2007-06-14",
+    "gender": "Male",
+    "email": "durgeshadimolu@gmail.com",
+    "mobile": "6281056955",
+    "accountType": "Savings",
+    "username": "durgesh123",
+    "password": "12345",
+    "address": "HYDERABAD"
+  },
+  {
+    "name": "A V V NAGA DURGESH",
+    "age": "19",
+    "dob": "2007-06-14",
+    "gender": "Male",
+    "email": "durgeshadimolu143@gmail.com",
+    "mobile": "1234567890",
+    "accountType": "Savings",
+    "username": "guddu13",
+    "password": "123456",
+    "address": "VIJAYANAGARAM"
+  }
+]

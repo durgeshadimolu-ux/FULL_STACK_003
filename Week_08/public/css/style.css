@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f6fc;
+    color: #222;
+}
+
+.navbar {
+    background: #123c69;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h2 {
+    color: white;
+    margin: 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 25px;
+}
+
+.hero {
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    color: #123c69;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+button {
+    background: #123c69;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background: #0b2c4d;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 18px;
+}
+
+.account-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.account-box {
+    background: #eef5ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.account-box h3 {
+    margin-top: 0;
+    color: #123c69;
+}
+
+.logout {
+    background: #c0392b;
+}
+
+.logout:hover {
+    background: #922b21;
+}
+
+.center {
+    text-align: center;
+}
